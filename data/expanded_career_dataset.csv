@@ -1,0 +1,521 @@
+Name,Skills,Skill_Levels,Interests,Experience,Recommended_Career,Average_Salary
+User_5329,Project Management;Content Writing;Graphic Design,Intermediate;Expert;Expert,Media;AI,3,UI/UX Designer,70000
+User_4384,JavaScript;Python;Networking;Graphic Design,Beginner;Beginner;Intermediate;Beginner,Business,5,Financial Analyst,75000
+User_5683,Project Management;Customer Service,Intermediate;Pro,Environment;Gaming,2,Cloud Engineer,105000
+User_1186,Content Writing;Project Management,Pro;Pro,Media;Cloud,0,Graphic Designer,55000
+User_6581,Machine Learning;Content Writing,Beginner;Expert,Education,3,Network Engineer,85000
+User_3155,Blockchain;Digital Marketing;Data Analysis;Python,Intermediate;Pro;Intermediate;Pro,AI,0,Digital Marketer,60000
+User_2011,Blockchain;UI/UX Design,Expert;Pro,Marketing,5,Customer Support Specialist,45000
+User_5954,Graphic Design;Data Analysis;DevOps,Expert;Beginner;Expert,Finance;Marketing,10,Customer Support Specialist,45000
+User_4430,Big Data;UI/UX Design;Java,Intermediate;Beginner;Pro,Education,10,Cybersecurity Analyst,95000
+User_1036,Networking;Accounting,Expert;Expert,Business;Design,3,DevOps Engineer,100000
+User_3524,Project Management;JavaScript;SEO;Accounting,Expert;Intermediate;Intermediate;Beginner,Finance;Media,0,Data Scientist,100000
+User_3760,Finance;Content Writing;Cloud Computing,Expert;Beginner;Pro,Environment;Education,5,Machine Learning Engineer,110000
+User_9023,Deep Learning;Finance,Expert;Beginner,Gaming;AI,8,Technical Writer,60000
+User_7633,Machine Learning;Deep Learning;Java,Beginner;Intermediate;Pro,Cloud;Gaming,2,Project Manager,95000
+User_3539,Big Data;SQL;Customer Service,Beginner;Beginner;Intermediate,Business,8,UI/UX Designer,70000
+User_4791,Cloud Computing;Python;Java;Cybersecurity,Pro;Pro;Pro;Intermediate,Education,10,Financial Analyst,75000
+User_3138,SEO;C++;Machine Learning;Digital Marketing,Beginner;Beginner;Beginner;Expert,Security;Cloud,1,Machine Learning Engineer,110000
+User_6238,Data Analysis;Networking;DevOps,Intermediate;Pro;Expert,AI;Finance,8,Accountant,65000
+User_2689,UI/UX Design;Cloud Computing,Pro;Expert,Design;Marketing,4,Digital Marketer,60000
+User_8944,Graphic Design;Accounting;Networking;Finance,Intermediate;Pro;Beginner;Intermediate,Healthcare;Tech,2,Blockchain Developer,115000
+User_9542,Customer Service;Content Writing;Finance;Blockchain,Intermediate;Beginner;Pro;Beginner,Tech;Gaming,5,Cloud Engineer,105000
+User_4824,DevOps;Data Analysis;Big Data,Intermediate;Expert;Expert,Healthcare;AI,1,UI/UX Designer,70000
+User_3676,Cybersecurity;UI/UX Design,Expert;Intermediate,Marketing;Design,4,Backend Developer,90000
+User_3726,UI/UX Design;DevOps;Machine Learning,Beginner;Intermediate;Expert,Finance,6,Digital Marketer,60000
+User_8158,Accounting;Finance;SQL,Intermediate;Beginner;Pro,Design,2,Graphic Designer,55000
+User_2638,Data Analysis;UI/UX Design,Intermediate;Beginner,Cloud,8,UI/UX Designer,70000
+User_2793,Accounting;Digital Marketing,Beginner;Expert,Cloud,3,Digital Marketer,60000
+User_4862,JavaScript;Project Management,Expert;Intermediate,Design;Analytics,1,Customer Support Specialist,45000
+User_5681,DevOps;Networking,Intermediate;Expert,Healthcare;Education,10,UI/UX Designer,70000
+User_5159,Content Writing;Finance;Machine Learning;DevOps,Intermediate;Beginner;Expert;Expert,Environment;Media,6,Graphic Designer,55000
+User_3423,Deep Learning;JavaScript,Beginner;Intermediate,Environment,3,Data Scientist,100000
+User_5459,Big Data;UI/UX Design;DevOps,Beginner;Intermediate;Intermediate,Security;Gaming,4,Technical Writer,60000
+User_1667,Accounting;Cybersecurity,Beginner;Pro,Security;Business,0,Blockchain Developer,115000
+User_6833,SQL;Java;Cybersecurity;UI/UX Design,Intermediate;Intermediate;Intermediate;Intermediate,Marketing,4,Backend Developer,90000
+User_6896,Content Writing;SQL,Pro;Intermediate,Finance,3,Cloud Engineer,105000
+User_6565,UI/UX Design;Graphic Design;Content Writing,Intermediate;Pro;Beginner,Security;Healthcare,8,Graphic Designer,55000
+User_9768,DevOps;Accounting;Customer Service,Intermediate;Expert;Beginner,Media;Marketing,2,SEO Specialist,58000
+User_4507,Digital Marketing;Content Writing,Beginner;Expert,Gaming,3,Customer Support Specialist,45000
+User_2746,Deep Learning;UI/UX Design;Big Data;Python,Pro;Expert;Beginner;Pro,Cloud;Education,1,Backend Developer,90000
+User_8825,Graphic Design;UI/UX Design;Python;Big Data,Pro;Beginner;Pro;Intermediate,Cloud;Design,3,Content Strategist,55000
+User_5167,Digital Marketing;Machine Learning,Expert;Expert,Marketing,3,Data Scientist,100000
+User_3857,C++;Cloud Computing;Java;Graphic Design,Pro;Intermediate;Pro;Expert,Business,2,Backend Developer,90000
+User_2436,Accounting;DevOps;Big Data,Pro;Beginner;Pro,Marketing;Environment,0,Graphic Designer,55000
+User_6403,Digital Marketing;Finance;Project Management;Customer Service,Beginner;Expert;Expert;Intermediate,Design;Cloud,3,UI/UX Designer,70000
+User_2562,Content Writing;Data Analysis,Pro;Beginner,Education;AI,9,Customer Support Specialist,45000
+User_2373,Graphic Design;Customer Service;Project Management;Java,Beginner;Pro;Beginner;Beginner,Education;Healthcare,8,UI/UX Designer,70000
+User_4361,Cloud Computing;Cybersecurity;Customer Service,Expert;Pro;Intermediate,Finance,2,Data Scientist,100000
+User_3403,Networking;Big Data;Accounting;Python,Beginner;Intermediate;Pro;Intermediate,AI;Media,4,Technical Writer,60000
+User_1884,UI/UX Design;Java,Pro;Beginner,Education,6,Data Scientist,100000
+User_5700,UI/UX Design;Machine Learning,Pro;Pro,Education;Design,2,Big Data Engineer,110000
+User_7353,Customer Service;Accounting;Python,Beginner;Pro;Intermediate,Marketing,4,Technical Writer,60000
+User_7989,Blockchain;Big Data;DevOps,Pro;Expert;Pro,Gaming;Environment,9,Technical Writer,60000
+User_1835,JavaScript;Cloud Computing,Expert;Intermediate,Healthcare;Tech,3,Accountant,65000
+User_6690,Project Management;Big Data;SQL;JavaScript,Expert;Pro;Expert;Expert,Education;Analytics,5,Technical Writer,60000
+User_3231,JavaScript;Cybersecurity;Data Analysis;C++,Beginner;Expert;Expert;Intermediate,Education;Environment,6,Blockchain Developer,115000
+User_1959,SQL;Blockchain;Project Management,Intermediate;Pro;Expert,Finance,5,Customer Support Specialist,45000
+User_7674,SEO;Networking;Data Analysis;Deep Learning,Expert;Pro;Intermediate;Expert,Cloud,9,Content Strategist,55000
+User_3279,Digital Marketing;Deep Learning;Networking;C++,Intermediate;Expert;Intermediate;Pro,Analytics;Healthcare,10,Digital Marketer,60000
+User_2426,SEO;Machine Learning,Intermediate;Pro,Gaming;Design,4,Technical Writer,60000
+User_2463,Networking;Data Analysis;Big Data;Graphic Design,Pro;Intermediate;Pro;Intermediate,Environment,1,UI/UX Designer,70000
+User_2101,Cloud Computing;Project Management;Cybersecurity;Networking,Expert;Beginner;Expert;Pro,Healthcare,10,Machine Learning Engineer,110000
+User_7507,Project Management;Cloud Computing;Deep Learning;SQL,Intermediate;Beginner;Expert;Pro,Environment;Healthcare,7,Content Strategist,55000
+User_6986,UI/UX Design;Machine Learning;DevOps,Beginner;Beginner;Beginner,Cloud;Gaming,3,Accountant,65000
+User_1340,UI/UX Design;Java,Pro;Beginner,Security,9,Digital Marketer,60000
+User_4507,Customer Service;UI/UX Design;Data Analysis,Pro;Expert;Beginner,Finance,10,Big Data Engineer,110000
+User_4584,SQL;Finance,Pro;Intermediate,AI;Media,3,Technical Writer,60000
+User_2440,Digital Marketing;Content Writing;Data Analysis;JavaScript,Pro;Expert;Expert;Pro,Tech;Environment,1,Cybersecurity Analyst,95000
+User_9735,Python;DevOps,Beginner;Pro,Education,0,Accountant,65000
+User_5934,Project Management;Content Writing;JavaScript;Accounting,Expert;Intermediate;Expert;Beginner,Media;Education,0,Technical Writer,60000
+User_3539,Python;C++;DevOps;Networking,Pro;Intermediate;Intermediate;Pro,Tech,1,Graphic Designer,55000
+User_1272,Machine Learning;SQL;Networking;Data Analysis,Intermediate;Pro;Beginner;Beginner,Media,1,Accountant,65000
+User_9927,Cloud Computing;Big Data;Digital Marketing;C++,Intermediate;Expert;Beginner;Pro,Security,6,Customer Support Specialist,45000
+User_2607,Python;Deep Learning;SEO;Cloud Computing,Beginner;Beginner;Beginner;Pro,AI,1,Network Engineer,85000
+User_3164,Networking;Digital Marketing;Project Management,Intermediate;Expert;Beginner,Healthcare;Marketing,7,DevOps Engineer,100000
+User_5088,C++;Networking;SEO;JavaScript,Expert;Pro;Intermediate;Expert,Security,3,DevOps Engineer,100000
+User_8604,C++;UI/UX Design,Pro;Beginner,Business,5,DevOps Engineer,100000
+User_7582,Digital Marketing;DevOps;Networking,Expert;Pro;Pro,Tech;Education,10,Blockchain Developer,115000
+User_3947,Big Data;Customer Service;Accounting;Content Writing,Expert;Pro;Beginner;Expert,AI,0,Technical Writer,60000
+User_8995,DevOps;Big Data;Blockchain,Beginner;Pro;Pro,Cloud;Media,3,DevOps Engineer,100000
+User_9010,Deep Learning;Networking;Java;Data Analysis,Pro;Pro;Beginner;Intermediate,AI;Marketing,7,DevOps Engineer,100000
+User_7482,Deep Learning;SQL;Graphic Design,Beginner;Pro;Beginner,AI,10,Network Engineer,85000
+User_9925,Data Analysis;SEO;Cloud Computing;UI/UX Design,Expert;Beginner;Pro;Intermediate,Business,9,Project Manager,95000
+User_7891,Machine Learning;Blockchain;Cloud Computing;Cybersecurity,Expert;Expert;Pro;Pro,Education,7,Digital Marketer,60000
+User_2121,SQL;UI/UX Design;JavaScript,Pro;Beginner;Pro,Tech,9,UI/UX Designer,70000
+User_4249,Java;SEO,Beginner;Intermediate,Healthcare,5,Content Strategist,55000
+User_3197,JavaScript;Java,Pro;Expert,Healthcare;Analytics,2,Graphic Designer,55000
+User_3587,C++;Customer Service;SQL;UI/UX Design,Beginner;Expert;Intermediate;Beginner,Gaming,4,Frontend Developer,85000
+User_5075,Content Writing;SQL;Networking;Big Data,Intermediate;Beginner;Intermediate;Intermediate,Education;Finance,3,SEO Specialist,58000
+User_4350,Content Writing;Finance,Expert;Intermediate,Tech,8,Machine Learning Engineer,110000
+User_5325,Customer Service;Python,Pro;Beginner,Cloud,2,Network Engineer,85000
+User_1768,Digital Marketing;UI/UX Design,Expert;Pro,Environment;Cloud,4,Accountant,65000
+User_2388,Accounting;JavaScript;Content Writing;Cybersecurity,Intermediate;Beginner;Intermediate;Intermediate,Media;Education,0,Machine Learning Engineer,110000
+User_6689,JavaScript;Digital Marketing;Graphic Design,Beginner;Pro;Intermediate,Security,5,Frontend Developer,85000
+User_7392,Networking;Python;Big Data,Intermediate;Pro;Intermediate,Environment;Security,4,SEO Specialist,58000
+User_6739,Blockchain;UI/UX Design;Finance,Expert;Pro;Intermediate,Tech;Environment,2,SEO Specialist,58000
+User_4483,Deep Learning;Big Data;Customer Service,Expert;Pro;Beginner,Business,10,Cloud Engineer,105000
+User_3261,Customer Service;JavaScript;DevOps;Finance,Intermediate;Expert;Beginner;Intermediate,Finance,0,Data Scientist,100000
+User_1337,Finance;Machine Learning,Intermediate;Pro,Gaming,5,Frontend Developer,85000
+User_7904,Accounting;Machine Learning,Expert;Pro,Finance;AI,3,Financial Analyst,75000
+User_5513,Content Writing;Big Data;Blockchain;Project Management,Pro;Pro;Intermediate;Expert,Design;Healthcare,9,Cloud Engineer,105000
+User_7615,Customer Service;Java;Blockchain,Pro;Intermediate;Pro,Cloud;Tech,1,Cloud Engineer,105000
+User_8382,Cloud Computing;SQL,Expert;Pro,Marketing,9,Accountant,65000
+User_7816,Big Data;Cybersecurity;Content Writing;Java,Expert;Expert;Expert;Intermediate,Cloud;Design,2,Project Manager,95000
+User_3025,DevOps;C++;Digital Marketing,Expert;Intermediate;Pro,Finance;Marketing,3,Technical Writer,60000
+User_5434,UI/UX Design;Big Data,Pro;Expert,Finance,2,Cybersecurity Analyst,95000
+User_4788,Machine Learning;UI/UX Design;Big Data;Digital Marketing,Expert;Expert;Intermediate;Beginner,Cloud;Healthcare,10,Blockchain Developer,115000
+User_4709,DevOps;Cloud Computing,Pro;Expert,Healthcare,9,Backend Developer,90000
+User_8445,Deep Learning;Digital Marketing;Content Writing;SEO,Intermediate;Pro;Intermediate;Intermediate,Education,1,Frontend Developer,85000
+User_3711,Accounting;SEO,Expert;Beginner,Security;Marketing,5,Financial Analyst,75000
+User_4110,Java;DevOps;Machine Learning;Networking,Pro;Intermediate;Beginner;Beginner,Healthcare;Design,8,Network Engineer,85000
+User_5871,Cybersecurity;Java,Pro;Intermediate,Environment,5,Technical Writer,60000
+User_4604,Machine Learning;Big Data;Python,Intermediate;Expert;Pro,Design,1,Cloud Engineer,105000
+User_6068,JavaScript;Blockchain;SEO,Beginner;Expert;Intermediate,Finance,8,Technical Writer,60000
+User_8288,Java;DevOps;Accounting;Graphic Design,Beginner;Intermediate;Intermediate;Beginner,Tech,2,Customer Support Specialist,45000
+User_7067,Java;Cloud Computing,Pro;Intermediate,Environment,3,Cloud Engineer,105000
+User_2279,Digital Marketing;Finance;JavaScript;Python,Beginner;Expert;Beginner;Expert,Education,2,Financial Analyst,75000
+User_5037,Project Management;Big Data,Pro;Beginner,Design;Finance,8,Accountant,65000
+User_9162,C++;Networking;SQL;Project Management,Beginner;Pro;Expert;Beginner,Environment,4,Network Engineer,85000
+User_7455,C++;Java,Pro;Expert,Security;Business,3,Cybersecurity Analyst,95000
+User_3926,Networking;JavaScript;Digital Marketing,Intermediate;Beginner;Intermediate,AI,2,Financial Analyst,75000
+User_9871,Networking;Digital Marketing;Graphic Design,Beginner;Pro;Pro,Media,0,Machine Learning Engineer,110000
+User_6469,Java;Cloud Computing;JavaScript;Project Management,Beginner;Pro;Expert;Beginner,Business,5,Accountant,65000
+User_5654,Project Management;Machine Learning;DevOps;Accounting,Intermediate;Pro;Pro;Beginner,Healthcare,5,SEO Specialist,58000
+User_5958,Python;Networking;JavaScript;Java,Expert;Beginner;Expert;Expert,Finance;Education,10,SEO Specialist,58000
+User_5455,Customer Service;Finance;DevOps;Content Writing,Intermediate;Beginner;Expert;Expert,Security,5,Technical Writer,60000
+User_7879,Customer Service;SQL;Content Writing;Java,Pro;Beginner;Intermediate;Intermediate,Business;AI,2,Network Engineer,85000
+User_5839,UI/UX Design;Accounting;Python;Customer Service,Pro;Beginner;Expert;Expert,AI;Education,7,Backend Developer,90000
+User_5475,Finance;Cybersecurity;Networking;Project Management,Pro;Expert;Expert;Intermediate,Media,4,Data Scientist,100000
+User_1298,Big Data;Networking,Beginner;Beginner,Healthcare,10,Project Manager,95000
+User_7482,JavaScript;SEO;Python,Beginner;Beginner;Pro,Environment,9,Customer Support Specialist,45000
+User_9439,Content Writing;Blockchain;C++;Customer Service,Expert;Beginner;Pro;Intermediate,Design,7,Accountant,65000
+User_9098,Blockchain;Customer Service;Networking;Digital Marketing,Intermediate;Intermediate;Intermediate;Beginner,Education;Business,3,DevOps Engineer,100000
+User_2356,Data Analysis;Graphic Design;C++;Blockchain,Beginner;Pro;Beginner;Pro,Healthcare;Finance,3,Backend Developer,90000
+User_2888,C++;Blockchain;JavaScript;Networking,Intermediate;Expert;Beginner;Beginner,Gaming;Education,9,UI/UX Designer,70000
+User_6041,Cloud Computing;Content Writing,Beginner;Expert,Cloud,4,Content Strategist,55000
+User_7368,JavaScript;Big Data;Data Analysis;Java,Intermediate;Pro;Pro;Pro,Design,6,Project Manager,95000
+User_4033,Machine Learning;Java;Big Data;JavaScript,Pro;Beginner;Pro;Expert,Media;Cloud,9,Network Engineer,85000
+User_9744,Blockchain;Cloud Computing;Java;SQL,Pro;Intermediate;Pro;Expert,Environment;Cloud,10,Accountant,65000
+User_2392,Project Management;Deep Learning;Accounting,Beginner;Beginner;Pro,AI,8,DevOps Engineer,100000
+User_1180,Cloud Computing;Data Analysis;Accounting;UI/UX Design,Intermediate;Pro;Expert;Expert,Marketing;AI,9,DevOps Engineer,100000
+User_9928,C++;Blockchain;Deep Learning;Cybersecurity,Expert;Intermediate;Pro;Pro,Environment,2,SEO Specialist,58000
+User_8855,Finance;Networking,Beginner;Intermediate,Healthcare,7,Digital Marketer,60000
+User_4166,Machine Learning;Content Writing;Graphic Design;Deep Learning,Pro;Expert;Pro;Intermediate,Cloud,2,SEO Specialist,58000
+User_1705,Content Writing;Java;SQL;Deep Learning,Expert;Expert;Beginner;Beginner,Education;Marketing,5,Digital Marketer,60000
+User_7696,JavaScript;Cybersecurity,Pro;Beginner,Tech,6,UI/UX Designer,70000
+User_1022,Project Management;Python;Deep Learning,Pro;Expert;Expert,AI,4,Graphic Designer,55000
+User_5670,SEO;Project Management,Beginner;Intermediate,Gaming;Design,8,Digital Marketer,60000
+User_2180,Cybersecurity;Deep Learning,Beginner;Beginner,Environment,10,SEO Specialist,58000
+User_2631,Customer Service;Graphic Design;C++;Blockchain,Beginner;Intermediate;Intermediate;Intermediate,Cloud;Marketing,0,Technical Writer,60000
+User_4637,Python;SEO;Digital Marketing,Expert;Expert;Intermediate,Tech;Design,6,Financial Analyst,75000
+User_6103,Content Writing;Cloud Computing;Big Data,Pro;Beginner;Expert,Security;Business,7,DevOps Engineer,100000
+User_5118,SQL;Customer Service,Intermediate;Expert,Tech,6,Graphic Designer,55000
+User_7035,Big Data;SEO;UI/UX Design;SQL,Intermediate;Expert;Pro;Beginner,Environment;Media,9,SEO Specialist,58000
+User_5778,Data Analysis;Project Management;Java,Expert;Intermediate;Pro,Business;AI,7,Content Strategist,55000
+User_5580,Machine Learning;Java,Intermediate;Beginner,Media;Environment,10,Customer Support Specialist,45000
+User_4573,UI/UX Design;Accounting,Pro;Expert,AI;Media,6,Graphic Designer,55000
+User_4698,Accounting;UI/UX Design;Project Management,Expert;Beginner;Pro,Education;Cloud,1,Digital Marketer,60000
+User_2135,Customer Service;Networking;Digital Marketing,Pro;Intermediate;Pro,AI,4,Backend Developer,90000
+User_4235,UI/UX Design;Content Writing;Java;Data Analysis,Intermediate;Beginner;Intermediate;Intermediate,Design;Finance,10,Machine Learning Engineer,110000
+User_9964,Project Management;JavaScript;Data Analysis;Java,Expert;Pro;Expert;Expert,Security,2,Financial Analyst,75000
+User_1146,Python;Customer Service;C++;Networking,Intermediate;Beginner;Beginner;Pro,Healthcare;Business,1,Graphic Designer,55000
+User_1145,C++;DevOps,Pro;Pro,Environment,8,Frontend Developer,85000
+User_6234,SQL;C++;Big Data,Beginner;Pro;Beginner,Environment;Cloud,5,Data Scientist,100000
+User_5115,Python;UI/UX Design,Intermediate;Expert,Media,9,Cloud Engineer,105000
+User_8416,Blockchain;Content Writing,Expert;Beginner,Marketing;Business,10,Frontend Developer,85000
+User_2771,Digital Marketing;C++,Intermediate;Beginner,Cloud;Analytics,0,Cybersecurity Analyst,95000
+User_4961,Machine Learning;Cloud Computing;Project Management;SEO,Intermediate;Intermediate;Beginner;Expert,Analytics;Marketing,6,Content Strategist,55000
+User_3394,C++;Java;Python;Customer Service,Beginner;Intermediate;Beginner;Intermediate,Design;Tech,0,Big Data Engineer,110000
+User_6158,SQL;JavaScript;Finance,Pro;Pro;Pro,Cloud,7,Big Data Engineer,110000
+User_5431,SEO;Blockchain,Intermediate;Beginner,Cloud;Marketing,7,Network Engineer,85000
+User_8830,C++;Cloud Computing;Content Writing,Intermediate;Expert;Pro,Marketing,2,Digital Marketer,60000
+User_3712,Java;Finance,Expert;Intermediate,AI,7,Data Scientist,100000
+User_6338,Digital Marketing;Customer Service;Accounting,Intermediate;Intermediate;Intermediate,Media;Cloud,3,Digital Marketer,60000
+User_5665,Python;SEO;Customer Service,Beginner;Beginner;Expert,Healthcare;Cloud,8,DevOps Engineer,100000
+User_7813,Graphic Design;SQL;Data Analysis,Pro;Pro;Expert,Design,4,Network Engineer,85000
+User_8618,UI/UX Design;SEO;Graphic Design;Project Management,Expert;Beginner;Intermediate;Expert,Design,6,SEO Specialist,58000
+User_3648,Accounting;Finance,Pro;Intermediate,Business;Healthcare,10,Big Data Engineer,110000
+User_9824,Project Management;JavaScript;DevOps,Intermediate;Expert;Expert,Media;Design,7,Blockchain Developer,115000
+User_1919,SEO;Machine Learning;Data Analysis,Pro;Intermediate;Expert,Education,6,UI/UX Designer,70000
+User_5277,SQL;Content Writing;Graphic Design,Expert;Pro;Expert,Environment;Design,9,Project Manager,95000
+User_6361,UI/UX Design;DevOps;JavaScript,Expert;Beginner;Beginner,Healthcare,2,Accountant,65000
+User_4939,Content Writing;Deep Learning,Expert;Pro,Gaming;Healthcare,6,Content Strategist,55000
+User_8139,Networking;Cloud Computing,Expert;Beginner,Healthcare,3,Machine Learning Engineer,110000
+User_9110,Blockchain;Customer Service,Intermediate;Expert,Education;AI,8,Financial Analyst,75000
+User_3696,SEO;Cloud Computing,Expert;Beginner,Media,6,Project Manager,95000
+User_4539,Python;Cloud Computing,Beginner;Beginner,AI,5,Digital Marketer,60000
+User_2318,SEO;Machine Learning;SQL;Graphic Design,Beginner;Intermediate;Intermediate;Pro,Education;Business,5,SEO Specialist,58000
+User_3519,C++;Graphic Design;Machine Learning;Digital Marketing,Expert;Expert;Beginner;Intermediate,Finance;Education,4,Digital Marketer,60000
+User_4212,Cloud Computing;Finance;UI/UX Design;JavaScript,Beginner;Intermediate;Intermediate;Expert,AI,2,Machine Learning Engineer,110000
+User_3740,DevOps;SQL,Intermediate;Beginner,Business,5,DevOps Engineer,100000
+User_6841,Digital Marketing;Python,Pro;Expert,Education;Gaming,0,Frontend Developer,85000
+User_8480,Big Data;Cloud Computing;Graphic Design,Pro;Beginner;Pro,Security;Media,8,Digital Marketer,60000
+User_6823,DevOps;Customer Service,Beginner;Pro,Analytics;AI,10,Graphic Designer,55000
+User_7470,Cybersecurity;JavaScript;UI/UX Design,Beginner;Intermediate;Intermediate,AI,0,Project Manager,95000
+User_9009,Java;Cybersecurity;DevOps,Beginner;Pro;Expert,AI,7,SEO Specialist,58000
+User_1839,Cloud Computing;Finance,Pro;Pro,Cloud;Environment,3,Technical Writer,60000
+User_8673,UI/UX Design;Blockchain;Java,Intermediate;Beginner;Pro,Cloud;Healthcare,7,Big Data Engineer,110000
+User_8726,Blockchain;DevOps,Expert;Expert,Finance;Gaming,9,Data Scientist,100000
+User_5868,Networking;Customer Service;Accounting,Beginner;Pro;Pro,Tech;Business,4,Frontend Developer,85000
+User_1754,Data Analysis;Cybersecurity,Intermediate;Expert,Finance;Environment,4,Project Manager,95000
+User_2628,Digital Marketing;Finance;Project Management;Networking,Beginner;Pro;Expert;Intermediate,AI;Environment,7,Financial Analyst,75000
+User_5152,Networking;Graphic Design;Python,Intermediate;Beginner;Pro,Analytics;Business,2,UI/UX Designer,70000
+User_9071,JavaScript;SEO;Machine Learning;Accounting,Pro;Expert;Expert;Beginner,Environment;Business,4,Financial Analyst,75000
+User_9819,Digital Marketing;Finance;Cloud Computing,Pro;Intermediate;Expert,Cloud;Security,7,Cloud Engineer,105000
+User_2554,Project Management;Customer Service;Cybersecurity,Beginner;Pro;Expert,Design,5,Data Scientist,100000
+User_5258,Deep Learning;Accounting;Machine Learning;Cybersecurity,Expert;Expert;Beginner;Beginner,Design;Business,2,Project Manager,95000
+User_5931,Content Writing;Project Management;Python;Graphic Design,Intermediate;Intermediate;Expert;Beginner,Security,0,Project Manager,95000
+User_8998,Content Writing;Digital Marketing;Finance,Intermediate;Beginner;Expert,Environment,7,Graphic Designer,55000
+User_9853,Accounting;Java;Digital Marketing;Cloud Computing,Beginner;Pro;Intermediate;Beginner,Environment,8,Data Scientist,100000
+User_3861,Networking;Content Writing;UI/UX Design;JavaScript,Pro;Expert;Intermediate;Beginner,Business;Design,3,Machine Learning Engineer,110000
+User_6737,Blockchain;Accounting;UI/UX Design,Pro;Beginner;Pro,Design;Finance,8,Network Engineer,85000
+User_5525,Digital Marketing;JavaScript;Machine Learning,Pro;Intermediate;Beginner,Analytics,3,SEO Specialist,58000
+User_1759,Graphic Design;DevOps;Content Writing,Intermediate;Beginner;Expert,Media;Tech,10,SEO Specialist,58000
+User_8815,DevOps;Finance;Customer Service;UI/UX Design,Intermediate;Intermediate;Pro;Expert,Analytics,6,Cybersecurity Analyst,95000
+User_9710,Deep Learning;SEO;Networking;Customer Service,Pro;Intermediate;Intermediate;Pro,Education,7,Digital Marketer,60000
+User_5090,Content Writing;Blockchain;Python,Expert;Beginner;Expert,Gaming,3,Customer Support Specialist,45000
+User_4712,Data Analysis;SQL;UI/UX Design,Intermediate;Expert;Expert,Marketing,7,Customer Support Specialist,45000
+User_8344,JavaScript;Finance;Deep Learning;SQL,Pro;Pro;Beginner;Intermediate,Education;Media,10,Financial Analyst,75000
+User_5769,Accounting;Java;JavaScript,Expert;Beginner;Beginner,Healthcare,0,DevOps Engineer,100000
+User_7712,Blockchain;Machine Learning;Content Writing;JavaScript,Beginner;Expert;Intermediate;Expert,Security;Media,0,SEO Specialist,58000
+User_5134,Accounting;Machine Learning;Graphic Design,Expert;Beginner;Beginner,Environment;Education,4,SEO Specialist,58000
+User_1376,Networking;Customer Service;Digital Marketing;Data Analysis,Pro;Beginner;Expert;Expert,Business;Media,1,Cybersecurity Analyst,95000
+User_6055,C++;Content Writing;DevOps,Beginner;Beginner;Expert,Healthcare,7,DevOps Engineer,100000
+User_2327,Cybersecurity;C++;Digital Marketing,Pro;Expert;Pro,Design,1,Project Manager,95000
+User_8648,Cloud Computing;Python;Java;SEO,Intermediate;Pro;Beginner;Beginner,Environment,1,Technical Writer,60000
+User_5703,Finance;Graphic Design;Big Data,Intermediate;Pro;Expert,Analytics;Environment,1,Customer Support Specialist,45000
+User_3166,Networking;JavaScript;Project Management,Beginner;Beginner;Beginner,Education;Business,6,Customer Support Specialist,45000
+User_6842,Big Data;Blockchain;Customer Service;Java,Intermediate;Intermediate;Beginner;Beginner,Environment,5,SEO Specialist,58000
+User_2308,Customer Service;Project Management;Machine Learning;Finance,Expert;Intermediate;Beginner;Beginner,Education;Marketing,2,SEO Specialist,58000
+User_8574,Python;Customer Service;SQL,Pro;Expert;Pro,Media,1,Customer Support Specialist,45000
+User_6767,DevOps;Digital Marketing;Networking,Pro;Beginner;Intermediate,Media,2,Big Data Engineer,110000
+User_8704,SEO;Cloud Computing;Cybersecurity;Java,Pro;Expert;Beginner;Intermediate,AI,5,Cloud Engineer,105000
+User_8936,Machine Learning;Graphic Design;Content Writing,Pro;Expert;Expert,Healthcare,3,UI/UX Designer,70000
+User_1678,UI/UX Design;Python;Networking,Expert;Intermediate;Intermediate,Analytics,7,Data Scientist,100000
+User_1517,Networking;Cloud Computing,Pro;Pro,Environment,1,Frontend Developer,85000
+User_5733,SEO;Python;Cybersecurity;Finance,Expert;Pro;Pro;Pro,Finance,2,Network Engineer,85000
+User_4005,Machine Learning;Accounting;Big Data,Beginner;Intermediate;Beginner,Gaming,8,Data Scientist,100000
+User_3456,Digital Marketing;Deep Learning;Data Analysis,Intermediate;Pro;Intermediate,Business,3,Project Manager,95000
+User_9965,Cloud Computing;Graphic Design;UI/UX Design,Expert;Pro;Beginner,Gaming,5,Machine Learning Engineer,110000
+User_7534,Deep Learning;Machine Learning,Pro;Intermediate,Cloud;Healthcare,4,Content Strategist,55000
+User_5636,Java;Big Data;Content Writing,Expert;Expert;Expert,AI,0,Digital Marketer,60000
+User_5961,JavaScript;Data Analysis;C++;Accounting,Pro;Beginner;Expert;Pro,Business;Media,3,Project Manager,95000
+User_9869,Accounting;DevOps;Digital Marketing,Beginner;Intermediate;Pro,Media;Business,1,Financial Analyst,75000
+User_7524,Machine Learning;Big Data,Expert;Intermediate,Education,9,Technical Writer,60000
+User_8757,C++;Finance,Pro;Beginner,Tech,7,Financial Analyst,75000
+User_8060,Accounting;UI/UX Design,Intermediate;Expert,Security;Finance,0,Machine Learning Engineer,110000
+User_5783,Data Analysis;Customer Service,Intermediate;Intermediate,Business,6,Technical Writer,60000
+User_5128,Graphic Design;Digital Marketing,Intermediate;Beginner,Gaming,8,UI/UX Designer,70000
+User_9381,SQL;Python;DevOps,Intermediate;Pro;Intermediate,Gaming;AI,4,Blockchain Developer,115000
+User_5259,SQL;Content Writing,Intermediate;Pro,Marketing;AI,5,Project Manager,95000
+User_8960,Python;DevOps;Customer Service;Blockchain,Beginner;Beginner;Beginner;Beginner,Finance,2,Project Manager,95000
+User_8404,Content Writing;Java,Expert;Beginner,Cloud;Environment,8,Data Scientist,100000
+User_6465,Networking;Deep Learning;Machine Learning,Beginner;Beginner;Pro,Environment;AI,2,Backend Developer,90000
+User_1367,Cybersecurity;Graphic Design,Intermediate;Beginner,Gaming;Marketing,6,Frontend Developer,85000
+User_3510,Graphic Design;Customer Service;Deep Learning;Blockchain,Beginner;Expert;Expert;Expert,Tech;Finance,5,Machine Learning Engineer,110000
+User_9570,Cloud Computing;Content Writing;Java;Deep Learning,Beginner;Intermediate;Pro;Pro,Tech;Business,4,DevOps Engineer,100000
+User_1644,Customer Service;Data Analysis,Pro;Pro,Marketing;Tech,4,Financial Analyst,75000
+User_5558,SEO;Cloud Computing;Accounting;Customer Service,Pro;Intermediate;Beginner;Expert,Marketing;Design,9,Machine Learning Engineer,110000
+User_4927,DevOps;Cybersecurity,Intermediate;Beginner,Healthcare,0,Blockchain Developer,115000
+User_8533,Data Analysis;Deep Learning;Blockchain,Pro;Beginner;Intermediate,Cloud,4,Technical Writer,60000
+User_4567,Content Writing;JavaScript;Digital Marketing,Expert;Beginner;Pro,Finance;Gaming,10,Frontend Developer,85000
+User_6041,Big Data;Content Writing,Expert;Pro,Finance,0,Accountant,65000
+User_1815,Deep Learning;Content Writing;Graphic Design;C++,Intermediate;Expert;Intermediate;Intermediate,Cloud;Business,9,Data Scientist,100000
+User_4917,Data Analysis;Accounting,Expert;Expert,Marketing,3,Technical Writer,60000
+User_1124,JavaScript;Content Writing;Digital Marketing;Blockchain,Pro;Beginner;Pro;Beginner,Education;Healthcare,8,Big Data Engineer,110000
+User_2878,Project Management;Digital Marketing;Accounting,Pro;Intermediate;Intermediate,Education;Tech,6,Data Scientist,100000
+User_2157,SQL;Python,Expert;Beginner,Marketing,4,Customer Support Specialist,45000
+User_2394,DevOps;JavaScript;Cybersecurity,Beginner;Beginner;Pro,Gaming,0,Big Data Engineer,110000
+User_4569,UI/UX Design;Finance;Graphic Design;SEO,Beginner;Intermediate;Expert;Beginner,Media,9,Cloud Engineer,105000
+User_1002,Accounting;Deep Learning;Networking,Expert;Expert;Intermediate,Business,4,Financial Analyst,75000
+User_7003,Project Management;DevOps,Pro;Beginner,Media;Tech,10,Cloud Engineer,105000
+User_2296,JavaScript;C++;Python;Content Writing,Expert;Intermediate;Pro;Intermediate,Marketing;Media,8,Data Scientist,100000
+User_5658,Cybersecurity;Finance;Big Data,Beginner;Intermediate;Pro,Tech,1,Frontend Developer,85000
+User_3059,Project Management;SEO;Networking;UI/UX Design,Beginner;Pro;Pro;Expert,Media;Tech,9,Backend Developer,90000
+User_3878,Project Management;C++,Expert;Pro,Media,6,Machine Learning Engineer,110000
+User_5287,Big Data;Graphic Design;Python;SEO,Intermediate;Intermediate;Beginner;Expert,Education,10,Machine Learning Engineer,110000
+User_5669,Machine Learning;SEO;Networking;SQL,Expert;Beginner;Beginner;Pro,Education;Analytics,2,Machine Learning Engineer,110000
+User_7519,Java;Machine Learning,Intermediate;Beginner,Finance;Design,5,Financial Analyst,75000
+User_1340,Graphic Design;Finance;Digital Marketing;Deep Learning,Intermediate;Pro;Intermediate;Intermediate,Finance,9,Customer Support Specialist,45000
+User_3480,C++;Machine Learning,Expert;Expert,Business;Environment,4,Frontend Developer,85000
+User_6897,Big Data;Graphic Design;Machine Learning;Digital Marketing,Intermediate;Expert;Beginner;Pro,Media,4,Data Scientist,100000
+User_5595,Data Analysis;Cybersecurity;Blockchain;Graphic Design,Pro;Beginner;Expert;Expert,Cloud;Finance,10,Digital Marketer,60000
+User_1454,Content Writing;Deep Learning;Digital Marketing,Pro;Beginner;Intermediate,Healthcare;Security,0,Content Strategist,55000
+User_9617,Content Writing;Blockchain;Java;Digital Marketing,Pro;Intermediate;Beginner;Intermediate,Education,4,Cybersecurity Analyst,95000
+User_4568,Finance;JavaScript;Accounting,Expert;Beginner;Pro,Analytics;Design,4,UI/UX Designer,70000
+User_2788,Big Data;SEO;Finance;UI/UX Design,Beginner;Beginner;Expert;Expert,Business,7,Customer Support Specialist,45000
+User_7399,SEO;SQL;Data Analysis,Intermediate;Expert;Intermediate,Education,8,Digital Marketer,60000
+User_7560,Python;Accounting;C++;Graphic Design,Intermediate;Beginner;Expert;Pro,Healthcare,2,Graphic Designer,55000
+User_3057,JavaScript;Graphic Design;Deep Learning;Cloud Computing,Expert;Expert;Expert;Intermediate,Media,0,Cybersecurity Analyst,95000
+User_1523,Data Analysis;Content Writing,Pro;Pro,Finance;Healthcare,5,UI/UX Designer,70000
+User_5096,Finance;Project Management;Blockchain,Beginner;Pro;Beginner,Gaming;AI,4,Backend Developer,90000
+User_3482,JavaScript;SEO;Content Writing;Blockchain,Intermediate;Beginner;Expert;Beginner,Tech;AI,0,Backend Developer,90000
+User_3744,Big Data;SQL;Blockchain;Machine Learning,Expert;Beginner;Intermediate;Expert,Healthcare,4,Financial Analyst,75000
+User_9470,Digital Marketing;Big Data;Finance,Pro;Expert;Pro,Finance;Education,8,Network Engineer,85000
+User_5903,Graphic Design;Blockchain;Python;Networking,Intermediate;Beginner;Intermediate;Pro,Business,2,Big Data Engineer,110000
+User_2344,Cloud Computing;UI/UX Design,Pro;Intermediate,Gaming;Education,9,Network Engineer,85000
+User_7856,DevOps;Python;UI/UX Design,Beginner;Expert;Beginner,Finance;Analytics,3,Backend Developer,90000
+User_3125,Big Data;Networking;Content Writing;Cybersecurity,Beginner;Beginner;Expert;Beginner,Environment;Analytics,0,Frontend Developer,85000
+User_9894,Graphic Design;Project Management,Pro;Beginner,Marketing;Healthcare,4,Project Manager,95000
+User_9218,Java;JavaScript;Accounting,Intermediate;Expert;Intermediate,Analytics,9,Content Strategist,55000
+User_3832,SEO;Machine Learning;Blockchain;Digital Marketing,Expert;Expert;Intermediate;Expert,Security;Media,10,Financial Analyst,75000
+User_5293,Graphic Design;DevOps;Data Analysis,Pro;Intermediate;Intermediate,Design,4,Accountant,65000
+User_5834,C++;Cybersecurity,Expert;Beginner,Business,8,Customer Support Specialist,45000
+User_8304,Networking;DevOps;SEO,Intermediate;Intermediate;Beginner,Marketing;Analytics,0,SEO Specialist,58000
+User_3144,UI/UX Design;Finance;Networking;DevOps,Pro;Beginner;Expert;Intermediate,Business,1,Customer Support Specialist,45000
+User_7440,Networking;JavaScript,Intermediate;Pro,Cloud,1,Frontend Developer,85000
+User_9576,Finance;SQL,Beginner;Pro,Healthcare,2,Customer Support Specialist,45000
+User_4289,Cybersecurity;SQL;Finance,Beginner;Expert;Intermediate,Healthcare,7,Big Data Engineer,110000
+User_2340,Networking;Deep Learning;UI/UX Design;Finance,Beginner;Beginner;Intermediate;Intermediate,Cloud,0,Financial Analyst,75000
+User_9575,Finance;Customer Service;Python,Intermediate;Beginner;Expert,Marketing;Security,0,SEO Specialist,58000
+User_5604,Big Data;DevOps;C++,Intermediate;Expert;Beginner,AI;Analytics,9,Machine Learning Engineer,110000
+User_8616,Customer Service;Big Data;C++,Pro;Expert;Expert,Gaming;Security,3,UI/UX Designer,70000
+User_9269,JavaScript;Graphic Design;Customer Service,Intermediate;Intermediate;Pro,Tech;Healthcare,0,SEO Specialist,58000
+User_2344,JavaScript;Accounting;Deep Learning,Intermediate;Pro;Intermediate,Tech,5,Project Manager,95000
+User_5902,Blockchain;UI/UX Design;Project Management,Beginner;Pro;Pro,Marketing;Business,5,Technical Writer,60000
+User_6995,SQL;Accounting,Pro;Pro,AI;Business,7,Backend Developer,90000
+User_4189,Big Data;Customer Service;Java;Finance,Expert;Beginner;Expert;Intermediate,Environment,1,DevOps Engineer,100000
+User_3941,Data Analysis;Machine Learning;JavaScript;Customer Service,Beginner;Expert;Pro;Pro,Design,5,Frontend Developer,85000
+User_3101,UI/UX Design;Graphic Design;Python;Deep Learning,Expert;Pro;Pro;Beginner,Security;Marketing,4,Customer Support Specialist,45000
+User_6977,Digital Marketing;SQL,Expert;Pro,Design;Media,9,SEO Specialist,58000
+User_2800,Data Analysis;Networking;SEO,Beginner;Pro;Intermediate,Design,3,Content Strategist,55000
+User_7245,Machine Learning;Accounting,Beginner;Pro,AI;Analytics,9,Project Manager,95000
+User_4630,Blockchain;Project Management,Pro;Pro,Tech,3,Big Data Engineer,110000
+User_1934,Machine Learning;Cloud Computing,Pro;Pro,Environment;Marketing,3,Accountant,65000
+User_6173,SEO;Project Management;UI/UX Design,Beginner;Beginner;Expert,Healthcare,6,Technical Writer,60000
+User_6703,Python;SEO;Cloud Computing,Expert;Pro;Expert,Gaming;Education,3,UI/UX Designer,70000
+User_4209,Project Management;Big Data;Networking,Expert;Expert;Beginner,AI,10,Machine Learning Engineer,110000
+User_5477,Data Analysis;SEO,Beginner;Pro,Environment,7,Customer Support Specialist,45000
+User_7106,C++;SQL;Java;Networking,Pro;Beginner;Intermediate;Pro,Healthcare,1,Data Scientist,100000
+User_6483,UI/UX Design;Python,Beginner;Intermediate,Finance;Media,9,Blockchain Developer,115000
+User_9684,SQL;Networking;Digital Marketing,Expert;Pro;Intermediate,Gaming,8,Cybersecurity Analyst,95000
+User_2432,Big Data;Accounting;UI/UX Design,Intermediate;Beginner;Expert,Education;Healthcare,8,Big Data Engineer,110000
+User_6529,Cloud Computing;Deep Learning;Finance;Project Management,Beginner;Expert;Intermediate;Pro,AI,0,Content Strategist,55000
+User_1645,Python;Customer Service;Machine Learning;Java,Expert;Expert;Beginner;Beginner,Security,9,Content Strategist,55000
+User_2040,Java;SQL,Expert;Beginner,Business;Security,4,Big Data Engineer,110000
+User_5096,Java;UI/UX Design;SQL;Networking,Intermediate;Beginner;Intermediate;Pro,Healthcare,3,Cybersecurity Analyst,95000
+User_6699,Graphic Design;C++;Content Writing,Pro;Pro;Expert,Tech;Marketing,7,Accountant,65000
+User_8445,SQL;SEO;Customer Service;JavaScript,Intermediate;Intermediate;Expert;Pro,Design,7,Machine Learning Engineer,110000
+User_9079,Project Management;Cloud Computing,Expert;Expert,Finance,5,Technical Writer,60000
+User_7324,SQL;UI/UX Design;Cybersecurity;Big Data,Pro;Intermediate;Expert;Intermediate,Design;Marketing,6,Network Engineer,85000
+User_4406,DevOps;UI/UX Design;Java,Intermediate;Pro;Intermediate,Environment;Analytics,2,Technical Writer,60000
+User_3483,Project Management;Content Writing;Java,Pro;Intermediate;Pro,AI,10,Content Strategist,55000
+User_3975,Machine Learning;C++;Project Management;Customer Service,Expert;Expert;Expert;Expert,Security;Media,9,Cybersecurity Analyst,95000
+User_5135,Project Management;Graphic Design;C++;Cloud Computing,Expert;Pro;Intermediate;Beginner,Cloud,0,Accountant,65000
+User_8320,C++;JavaScript;Data Analysis;Machine Learning,Expert;Beginner;Beginner;Pro,Gaming,6,Backend Developer,90000
+User_7809,Project Management;Python,Pro;Pro,Environment;Business,0,Content Strategist,55000
+User_4755,Finance;Cloud Computing;Big Data,Expert;Expert;Expert,Tech;Security,1,Cloud Engineer,105000
+User_8399,JavaScript;Cybersecurity;Data Analysis,Expert;Expert;Intermediate,AI,10,Content Strategist,55000
+User_4182,Graphic Design;Accounting;Project Management;Networking,Intermediate;Expert;Intermediate;Beginner,Cloud,10,Project Manager,95000
+User_6202,Cybersecurity;C++,Intermediate;Pro,Tech;AI,9,Digital Marketer,60000
+User_7638,Graphic Design;Deep Learning;Accounting;Cloud Computing,Intermediate;Beginner;Pro;Intermediate,Marketing;Security,1,Project Manager,95000
+User_1823,Deep Learning;Cybersecurity,Intermediate;Pro,Design;Cloud,4,Data Scientist,100000
+User_3579,SQL;Graphic Design;Cloud Computing;Python,Intermediate;Beginner;Pro;Pro,Education,7,Graphic Designer,55000
+User_4530,Deep Learning;Cybersecurity;Project Management,Pro;Pro;Pro,Design;Gaming,0,Big Data Engineer,110000
+User_8227,C++;Networking,Expert;Beginner,Business;Education,9,DevOps Engineer,100000
+User_8447,UI/UX Design;Project Management;Python;Deep Learning,Pro;Pro;Pro;Expert,AI,3,Technical Writer,60000
+User_2654,Accounting;JavaScript;C++;Digital Marketing,Pro;Beginner;Intermediate;Intermediate,AI,8,Customer Support Specialist,45000
+User_7123,Cybersecurity;C++,Expert;Pro,Marketing;Gaming,2,Content Strategist,55000
+User_7518,SEO;Graphic Design;Networking,Expert;Expert;Expert,Healthcare;Security,9,Cybersecurity Analyst,95000
+User_6188,Data Analysis;SEO;Cloud Computing;DevOps,Intermediate;Expert;Expert;Beginner,Environment;Security,8,Big Data Engineer,110000
+User_7362,Content Writing;Deep Learning,Expert;Beginner,Education;Healthcare,2,Network Engineer,85000
+User_6320,Networking;Content Writing;Blockchain,Expert;Pro;Pro,Design,10,Customer Support Specialist,45000
+User_4370,Deep Learning;Finance;Blockchain,Expert;Pro;Pro,Tech;Design,10,Cloud Engineer,105000
+User_6505,Machine Learning;UI/UX Design;SEO;Cloud Computing,Expert;Intermediate;Pro;Beginner,Gaming,8,Big Data Engineer,110000
+User_1549,Machine Learning;UI/UX Design;SEO,Beginner;Intermediate;Pro,Design;Cloud,8,Technical Writer,60000
+User_1773,Finance;Machine Learning;Cybersecurity,Beginner;Beginner;Intermediate,Business,6,Data Scientist,100000
+User_1516,Content Writing;Python,Expert;Intermediate,Finance,9,Machine Learning Engineer,110000
+User_3212,SEO;UI/UX Design,Intermediate;Expert,Education;Healthcare,1,Content Strategist,55000
+User_1561,Cybersecurity;Finance;Graphic Design,Intermediate;Intermediate;Beginner,Healthcare,3,Content Strategist,55000
+User_6265,Accounting;Cloud Computing;Customer Service,Pro;Beginner;Expert,Tech;Cloud,4,Network Engineer,85000
+User_8434,Networking;Blockchain;Machine Learning;Deep Learning,Intermediate;Expert;Pro;Beginner,Business;Healthcare,7,Backend Developer,90000
+User_8258,SEO;Content Writing,Intermediate;Intermediate,Media,8,Network Engineer,85000
+User_4698,JavaScript;Customer Service;DevOps,Beginner;Beginner;Expert,Finance;Business,4,Network Engineer,85000
+User_8572,Finance;Cybersecurity,Beginner;Pro,AI;Finance,0,Accountant,65000
+User_9439,Deep Learning;Networking;Python;SQL,Beginner;Expert;Pro;Intermediate,Education,2,Graphic Designer,55000
+User_7991,Cybersecurity;JavaScript;SQL,Pro;Beginner;Expert,AI,1,Content Strategist,55000
+User_2138,Customer Service;Accounting;Networking;SEO,Intermediate;Intermediate;Expert;Intermediate,Design,10,Cybersecurity Analyst,95000
+User_5534,DevOps;UI/UX Design;C++,Expert;Intermediate;Expert,Cloud,5,Project Manager,95000
+User_4401,Digital Marketing;Cybersecurity,Intermediate;Beginner,Education;Cloud,4,DevOps Engineer,100000
+User_9007,SEO;Accounting;Deep Learning,Pro;Pro;Beginner,Healthcare,5,Project Manager,95000
+User_5341,Big Data;SQL;Data Analysis,Pro;Expert;Intermediate,Gaming;Security,0,UI/UX Designer,70000
+User_3279,Deep Learning;UI/UX Design;Digital Marketing,Intermediate;Pro;Beginner,Marketing;Gaming,1,Cybersecurity Analyst,95000
+User_9586,Data Analysis;Graphic Design;Customer Service,Expert;Intermediate;Intermediate,Finance;Security,5,Backend Developer,90000
+User_9220,Finance;Graphic Design;Accounting,Expert;Beginner;Pro,Gaming;Education,9,UI/UX Designer,70000
+User_1164,Accounting;Project Management;Cybersecurity;Cloud Computing,Expert;Expert;Pro;Expert,AI,0,Financial Analyst,75000
+User_4247,Digital Marketing;Accounting,Beginner;Beginner,Gaming,9,Frontend Developer,85000
+User_7415,Blockchain;UI/UX Design;Cloud Computing,Intermediate;Intermediate;Expert,Education;Design,0,Graphic Designer,55000
+User_5182,Cybersecurity;Deep Learning;Digital Marketing,Expert;Pro;Pro,Finance,1,Content Strategist,55000
+User_1845,C++;Machine Learning,Beginner;Beginner,Business;Marketing,1,Big Data Engineer,110000
+User_2788,Blockchain;C++;Digital Marketing,Expert;Pro;Beginner,Healthcare;Design,0,Frontend Developer,85000
+User_1001,Digital Marketing;Project Management;Graphic Design;Blockchain,Intermediate;Expert;Expert;Pro,Business,7,Cloud Engineer,105000
+User_4130,Networking;Cybersecurity;Java,Beginner;Beginner;Intermediate,Design,6,Backend Developer,90000
+User_1249,Accounting;Cloud Computing;Blockchain,Beginner;Intermediate;Expert,Business,5,UI/UX Designer,70000
+User_4484,Project Management;DevOps;Java,Beginner;Beginner;Intermediate,Security,4,Accountant,65000
+User_3755,Project Management;Graphic Design;Deep Learning;Finance,Intermediate;Expert;Beginner;Expert,Marketing,10,Graphic Designer,55000
+User_6419,UI/UX Design;Python,Intermediate;Expert,Media,0,DevOps Engineer,100000
+User_7212,Project Management;DevOps;Digital Marketing;Accounting,Beginner;Expert;Pro;Pro,Education,1,Technical Writer,60000
+User_3368,Machine Learning;Python;Graphic Design;SQL,Expert;Beginner;Beginner;Beginner,Environment;Analytics,3,Machine Learning Engineer,110000
+User_4841,UI/UX Design;Blockchain;Deep Learning,Expert;Pro;Intermediate,Education,2,Cloud Engineer,105000
+User_1719,SQL;Java,Intermediate;Expert,Environment,0,Project Manager,95000
+User_8602,UI/UX Design;SEO;Finance;Digital Marketing,Beginner;Expert;Pro;Intermediate,Cloud;Finance,10,Digital Marketer,60000
+User_2426,Finance;Java;Cybersecurity,Pro;Beginner;Expert,Tech;Finance,8,Graphic Designer,55000
+User_6711,Finance;Accounting;SQL,Intermediate;Expert;Expert,Tech;Cloud,4,DevOps Engineer,100000
+User_8272,Customer Service;Finance;Accounting;Cybersecurity,Expert;Intermediate;Intermediate;Intermediate,Education,9,Backend Developer,90000
+User_3634,C++;UI/UX Design;Cloud Computing;Java,Pro;Pro;Pro;Pro,Cloud,4,Cybersecurity Analyst,95000
+User_3490,Python;Graphic Design,Beginner;Beginner,Gaming,5,Accountant,65000
+User_5525,Python;C++;Data Analysis,Intermediate;Beginner;Intermediate,Gaming;Tech,5,Cloud Engineer,105000
+User_8084,Content Writing;Cloud Computing;Accounting;Machine Learning,Expert;Expert;Beginner;Pro,Security,9,Data Scientist,100000
+User_8769,SEO;Cloud Computing;Data Analysis,Expert;Intermediate;Beginner,Education;Marketing,7,Accountant,65000
+User_5752,Networking;Cloud Computing,Intermediate;Expert,Gaming;Healthcare,3,Backend Developer,90000
+User_3953,SEO;C++;Data Analysis;Python,Intermediate;Pro;Expert;Pro,Security;Business,0,Data Scientist,100000
+User_8960,Big Data;Cloud Computing,Beginner;Pro,Analytics,5,Machine Learning Engineer,110000
+User_3657,Content Writing;Big Data,Expert;Pro,Security,6,Digital Marketer,60000
+User_7900,Data Analysis;Deep Learning;Blockchain,Intermediate;Expert;Intermediate,Tech,10,Frontend Developer,85000
+User_4603,DevOps;Accounting;Cybersecurity;Content Writing,Beginner;Beginner;Pro;Beginner,AI;Environment,9,Customer Support Specialist,45000
+User_4001,Python;Blockchain,Expert;Expert,Design,2,Cybersecurity Analyst,95000
+User_5926,Cybersecurity;Python,Expert;Intermediate,Business;Cloud,1,Cloud Engineer,105000
+User_5656,Digital Marketing;Customer Service;Project Management,Intermediate;Beginner;Expert,Media,4,Machine Learning Engineer,110000
+User_7002,Big Data;Networking,Pro;Intermediate,Design;Tech,10,Backend Developer,90000
+User_3609,Content Writing;Python;Machine Learning,Intermediate;Beginner;Pro,Design,2,Content Strategist,55000
+User_2547,Big Data;Networking,Beginner;Beginner,Finance,2,Frontend Developer,85000
+User_5377,SQL;Graphic Design,Expert;Beginner,Gaming;Cloud,3,Customer Support Specialist,45000
+User_6429,Deep Learning;Big Data;Blockchain;Python,Expert;Intermediate;Intermediate;Intermediate,Media,1,Project Manager,95000
+User_6774,Finance;Python,Beginner;Pro,Tech,10,DevOps Engineer,100000
+User_8883,SQL;Blockchain;Networking;Accounting,Expert;Pro;Beginner;Pro,Analytics;Business,9,Digital Marketer,60000
+User_5215,Data Analysis;Digital Marketing;DevOps;Graphic Design,Beginner;Beginner;Pro;Intermediate,Analytics;Gaming,4,Graphic Designer,55000
+User_7668,Java;Machine Learning,Pro;Beginner,AI,3,Big Data Engineer,110000
+User_9634,Project Management;Graphic Design;Java;Accounting,Expert;Beginner;Intermediate;Intermediate,Security;Business,0,Project Manager,95000
+User_1650,Blockchain;Finance,Pro;Beginner,Business,1,Big Data Engineer,110000
+User_4647,Cloud Computing;Big Data;SEO,Intermediate;Intermediate;Beginner,Gaming,9,Frontend Developer,85000
+User_1842,Deep Learning;Accounting,Beginner;Expert,Analytics,3,DevOps Engineer,100000
+User_4566,Customer Service;Machine Learning;SEO;SQL,Expert;Pro;Pro;Intermediate,Finance,3,Graphic Designer,55000
+User_8874,Data Analysis;SQL;Blockchain,Pro;Expert;Expert,Tech;AI,4,Project Manager,95000
+User_8952,Cybersecurity;C++;Python;Machine Learning,Expert;Pro;Intermediate;Beginner,Business,8,Big Data Engineer,110000
+User_6519,Project Management;Java;JavaScript;Finance,Intermediate;Beginner;Expert;Beginner,Education,0,Network Engineer,85000
+User_3755,SEO;Graphic Design,Beginner;Beginner,Cloud,2,Machine Learning Engineer,110000
+User_7349,C++;DevOps;SEO;Graphic Design,Beginner;Intermediate;Expert;Intermediate,Marketing;Tech,0,Digital Marketer,60000
+User_4899,Cloud Computing;Content Writing,Intermediate;Beginner,Environment,6,Graphic Designer,55000
+User_1119,C++;Data Analysis,Expert;Pro,Media,4,Customer Support Specialist,45000
+User_4248,Customer Service;SQL;Project Management;Finance,Pro;Pro;Expert;Pro,Security,10,Data Scientist,100000
+User_3868,DevOps;Project Management;Graphic Design,Intermediate;Beginner;Expert,Finance,6,Graphic Designer,55000
+User_6349,Cloud Computing;Blockchain;Digital Marketing;Finance,Beginner;Intermediate;Intermediate;Intermediate,Finance;Security,1,Financial Analyst,75000
+User_7995,Customer Service;Graphic Design;Cloud Computing,Intermediate;Intermediate;Intermediate,Gaming,3,Accountant,65000
+User_4643,Graphic Design;JavaScript,Beginner;Beginner,Gaming;Healthcare,9,DevOps Engineer,100000
+User_5253,Digital Marketing;UI/UX Design;DevOps,Expert;Beginner;Beginner,Design,4,Machine Learning Engineer,110000
+User_4285,Accounting;UI/UX Design,Beginner;Expert,Cloud,2,Data Scientist,100000
+User_6673,Data Analysis;Content Writing;Graphic Design,Expert;Beginner;Beginner,Security;Marketing,10,Frontend Developer,85000
+User_7678,Digital Marketing;Customer Service;SEO;Project Management,Intermediate;Beginner;Expert;Expert,Education,10,Big Data Engineer,110000
+User_1582,Deep Learning;Accounting;Networking;DevOps,Expert;Pro;Intermediate;Expert,Business,7,DevOps Engineer,100000
+User_8063,Deep Learning;SEO,Intermediate;Pro,Tech,4,Graphic Designer,55000
+User_9731,Machine Learning;Finance;SEO;JavaScript,Expert;Beginner;Pro;Intermediate,Gaming;Marketing,4,Accountant,65000
+User_6338,Deep Learning;Digital Marketing;Content Writing;Accounting,Intermediate;Intermediate;Beginner;Intermediate,Marketing;Gaming,5,Project Manager,95000
+User_5993,Data Analysis;Content Writing;JavaScript;DevOps,Intermediate;Expert;Intermediate;Intermediate,Healthcare,9,Data Scientist,100000
+User_2715,Cybersecurity;Content Writing;Graphic Design;Java,Expert;Intermediate;Pro;Beginner,Design;Business,5,Customer Support Specialist,45000
+User_3632,Data Analysis;DevOps;Cloud Computing,Pro;Beginner;Expert,Business,0,Accountant,65000
+User_4545,Python;DevOps;Accounting,Intermediate;Expert;Beginner,Education,10,UI/UX Designer,70000
+User_4110,Content Writing;DevOps;C++,Beginner;Expert;Expert,Marketing,10,UI/UX Designer,70000
+User_7033,Graphic Design;DevOps;Big Data,Pro;Expert;Expert,Media,8,Accountant,65000
+User_5409,Big Data;Finance;Java;Cybersecurity,Beginner;Pro;Pro;Pro,Marketing;Finance,10,UI/UX Designer,70000
+User_8125,JavaScript;Big Data;UI/UX Design;Graphic Design,Pro;Beginner;Pro;Pro,Finance;Gaming,4,Machine Learning Engineer,110000
+User_7434,Networking;Content Writing,Beginner;Intermediate,Education,9,Cloud Engineer,105000
+User_7730,Networking;Content Writing,Beginner;Intermediate,Security,8,Big Data Engineer,110000
+User_3183,SQL;Data Analysis,Beginner;Expert,AI,9,Graphic Designer,55000
+User_4342,JavaScript;Digital Marketing;Cybersecurity,Intermediate;Expert;Pro,Cloud;Environment,2,DevOps Engineer,100000
+User_3666,JavaScript;Cloud Computing;Customer Service,Intermediate;Beginner;Expert,Education;Gaming,3,Network Engineer,85000
+User_7562,SQL;SEO;Deep Learning,Intermediate;Beginner;Beginner,Security,3,DevOps Engineer,100000
+User_3247,Content Writing;Digital Marketing;Project Management,Expert;Pro;Expert,Education;Healthcare,7,DevOps Engineer,100000
+User_3462,Data Analysis;Project Management,Pro;Pro,Finance,6,Digital Marketer,60000
+User_3601,C++;Cloud Computing,Intermediate;Beginner,Finance;Analytics,4,Financial Analyst,75000
+User_7582,Machine Learning;Project Management;Blockchain;Digital Marketing,Intermediate;Beginner;Expert;Intermediate,Media;Tech,6,Content Strategist,55000
+User_2076,Digital Marketing;Networking;Java;Project Management,Pro;Expert;Pro;Expert,Cloud,4,UI/UX Designer,70000
+User_6655,SQL;Finance;Big Data,Intermediate;Expert;Pro,AI;Gaming,0,Data Scientist,100000
+User_9819,Blockchain;Java;Python;Cybersecurity,Beginner;Intermediate;Expert;Intermediate,Healthcare;Education,3,Network Engineer,85000
+User_7142,C++;Customer Service;Graphic Design;Accounting,Beginner;Intermediate;Expert;Beginner,Analytics;Media,0,Big Data Engineer,110000
+User_4677,UI/UX Design;Finance,Intermediate;Expert,Healthcare,8,Project Manager,95000
+User_4370,Graphic Design;Python,Beginner;Expert,Environment;Analytics,9,Blockchain Developer,115000
+User_8409,Blockchain;Graphic Design;SQL;Cloud Computing,Intermediate;Expert;Beginner;Expert,Gaming;Healthcare,3,Backend Developer,90000
+User_4137,Cloud Computing;Blockchain;Deep Learning;Digital Marketing,Intermediate;Expert;Expert;Intermediate,Business,1,SEO Specialist,58000
+User_5128,Python;UI/UX Design;Machine Learning,Expert;Expert;Pro,AI;Security,7,Cloud Engineer,105000
+User_4219,Python;Accounting;Deep Learning,Beginner;Intermediate;Beginner,Healthcare;Education,0,Data Scientist,100000
+User_9001,Java;Networking,Beginner;Beginner,Security,8,Accountant,65000
+User_7860,DevOps;Cybersecurity,Beginner;Expert,Business,2,Accountant,65000
+User_8051,Big Data;Blockchain;Deep Learning,Expert;Expert;Intermediate,Design,3,Frontend Developer,85000
+User_5491,Deep Learning;Project Management,Intermediate;Beginner,AI;Education,9,Cloud Engineer,105000
+User_8857,Accounting;UI/UX Design;Data Analysis;Content Writing,Beginner;Pro;Expert;Pro,Cloud,8,Technical Writer,60000
+User_8702,SEO;JavaScript,Expert;Intermediate,Security,10,Blockchain Developer,115000
+User_8295,SQL;Cloud Computing,Intermediate;Expert,Environment;Tech,10,Accountant,65000
+User_4398,Graphic Design;DevOps,Pro;Pro,Cloud,4,Cloud Engineer,105000
+User_6917,Accounting;Digital Marketing;Cybersecurity,Expert;Intermediate;Intermediate,Design,6,Accountant,65000
+User_5668,Cybersecurity;Accounting;Machine Learning;DevOps,Beginner;Pro;Beginner;Intermediate,Analytics;Tech,1,Content Strategist,55000
+User_8747,JavaScript;Content Writing;Cloud Computing;Deep Learning,Expert;Beginner;Intermediate;Pro,Media,1,DevOps Engineer,100000
+User_9447,Digital Marketing;Cybersecurity;Cloud Computing,Pro;Beginner;Expert,Cloud,1,UI/UX Designer,70000
+User_4238,C++;Deep Learning;Accounting,Beginner;Pro;Pro,Cloud,9,UI/UX Designer,70000
+User_8511,Digital Marketing;DevOps;Cloud Computing,Beginner;Beginner;Pro,AI;Design,3,Blockchain Developer,115000
+User_6135,Blockchain;Graphic Design,Beginner;Pro,Cloud,7,SEO Specialist,58000
+User_3913,UI/UX Design;Finance;Data Analysis;Deep Learning,Expert;Beginner;Expert;Pro,Design;Cloud,4,Backend Developer,90000
+User_3671,Accounting;Digital Marketing;Python;C++,Expert;Expert;Pro;Expert,Security;Education,6,Financial Analyst,75000
+User_1547,Cybersecurity;JavaScript;Python;SQL,Expert;Beginner;Intermediate;Intermediate,Environment,7,Data Scientist,100000
+User_2408,Graphic Design;Big Data;Java,Expert;Expert;Intermediate,Education,7,Big Data Engineer,110000
+User_3678,Deep Learning;UI/UX Design;JavaScript,Expert;Beginner;Expert,Media;Education,5,Big Data Engineer,110000
+User_9119,Cybersecurity;UI/UX Design;SQL,Expert;Expert;Expert,Security;Healthcare,6,SEO Specialist,58000
+User_9438,Graphic Design;Big Data;Content Writing;JavaScript,Beginner;Pro;Beginner;Expert,Security,9,Big Data Engineer,110000
+User_1327,Machine Learning;SEO,Beginner;Beginner,Design,4,SEO Specialist,58000
+User_2087,JavaScript;Customer Service;Accounting,Pro;Expert;Intermediate,Media;Cloud,7,Customer Support Specialist,45000
+User_3564,SQL;Deep Learning;Java;Content Writing,Intermediate;Pro;Pro;Pro,Healthcare;Business,1,Cybersecurity Analyst,95000
+User_5710,Big Data;Customer Service;Content Writing,Expert;Intermediate;Pro,AI;Cloud,7,Digital Marketer,60000
+User_2238,Digital Marketing;Cybersecurity,Beginner;Expert,Tech;AI,2,SEO Specialist,58000
+User_6629,Python;SQL;Customer Service,Beginner;Beginner;Intermediate,Education,4,Digital Marketer,60000
+User_5267,Data Analysis;SEO,Beginner;Expert,Marketing,10,Data Scientist,100000
+User_6977,Python;Content Writing;Digital Marketing;Networking,Expert;Beginner;Beginner;Expert,Cloud,0,DevOps Engineer,100000
+User_1379,Finance;Big Data,Beginner;Intermediate,Finance,4,Machine Learning Engineer,110000
+User_9688,Big Data;Finance,Pro;Intermediate,Gaming,1,Technical Writer,60000
+User_1985,Deep Learning;Cybersecurity;SEO,Expert;Intermediate;Pro,Business;Finance,4,Graphic Designer,55000
+User_5727,Java;Blockchain;Data Analysis;Python,Expert;Intermediate;Beginner;Beginner,Finance;Cloud,7,Machine Learning Engineer,110000
+User_9383,JavaScript;Cybersecurity;Project Management;Graphic Design,Expert;Intermediate;Expert;Pro,Finance,10,Backend Developer,90000
+User_7697,Digital Marketing;Python;Content Writing,Intermediate;Pro;Beginner,Marketing;Gaming,5,Project Manager,95000
+User_6862,Graphic Design;DevOps;Accounting;Digital Marketing,Beginner;Beginner;Expert;Intermediate,Tech;Education,3,Frontend Developer,85000
+User_6772,Big Data;Finance;SQL,Intermediate;Expert;Expert,Gaming;Business,4,Network Engineer,85000
+User_9517,C++;Big Data,Beginner;Intermediate,Gaming;Cloud,1,Machine Learning Engineer,110000
+User_1005,SEO;Graphic Design;Deep Learning,Intermediate;Expert;Beginner,Tech;Analytics,4,Backend Developer,90000
